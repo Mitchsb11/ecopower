@@ -62,7 +62,9 @@ export interface Produit {
 /**
  * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "users".
- */
+ 
+
+*/
 export interface User {
   id: number;
   updatedAt: string;
